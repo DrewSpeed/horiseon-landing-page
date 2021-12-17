@@ -8,7 +8,7 @@ A website that details Horiseon Social Solution Services, Inc.'s various marketi
 * CSS
 
 ## Website
-
+https://drewspeed.github.io/horiseon-landing-page/
 
 ## Contribution
 Made with ❤️ by Drew Speed
