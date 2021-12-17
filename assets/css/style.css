@@ -42,11 +42,13 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+/* changing color of Horiseon logo */
+.seo {
     color: #d9dcd6;
 }
 
-header div {
+
+header container {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -54,13 +56,10 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
-    list-style-type: none;
-}
-
-header div ul li {
+nav ul li {
     display: inline-block;
     margin-left: 25px;
+    list-style-type: none;
 }
 
 /* header end */
